@@ -1,7 +1,6 @@
 
 ## Dotfiles
 
-ls  
 > - .config  
 >   - qtile  
 >     - config.py  
