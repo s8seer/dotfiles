@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Python Runner
+Comment=Run Python Applications Via File Manager
+Icon=pythonbackend
+Type=Application
+Exec=kitty --hold python

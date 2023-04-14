@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=Osu!Lazer Native Linux Runtime
+Exec=/mnt/table/SteamGib/otherGib/seperate/osu/osu.AppImage
+GenericName=Osu!Lazer
+Icon=/mnt/table/Deposit/resources/icons/apps/games/ozu!lazer.png
+Name=Osu!Lazer
+StartupNotify=true
+Terminal=0
+Type=Application
+X-KDE-SubstituteUID=false

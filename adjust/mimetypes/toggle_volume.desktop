@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=
+Exec=bash ~/.local/share/scripts/saltvl/saltvl.sh toggle
+Icon=package-reinstall
+Name=Toggle Audio Source
+StartupNotify=false
+Terminal=false
+Type=Application
+X-KDE-SubstituteUID=false

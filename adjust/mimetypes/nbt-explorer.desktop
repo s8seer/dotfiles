@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=View and modify NBT datas of Minecraft
+Exec=mono ~/.local/share/NBTExplorer-2.8.0/NBTExplorer.exe
+Icon=minecraft
+Name=NBT Explorer
+Path=~/.minecraft/
+StartupNotify=false
+Terminal=false
+Type=Application
+X-KDE-SubstituteUID=false

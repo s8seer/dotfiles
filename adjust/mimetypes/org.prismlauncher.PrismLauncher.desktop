@@ -1,0 +1,16 @@
+[Desktop Entry]
+Categories=Game;ActionGame;AdventureGame;Simulation;
+Comment=A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=prismlauncher org.prismlauncher.PrismLauncher
+Icon=/mnt/table/Deposit/resources/icons/apps/games/minecraft/prism-launcher.png
+Keywords=game;minecraft;launcher;mc;multimc;polymc;
+MimeType=application/zip;
+Name[en_US]=Prism Launcher
+Name=Prism Launcher
+StartupNotify=true
+StartupWMClass=PrismLauncher
+Terminal=false
+Type=Application
+Version=1.0
+X-Flatpak=org.prismlauncher.PrismLauncher
+X-KDE-SubstituteUID=false
