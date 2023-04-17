@@ -1,0 +1,37 @@
+# ~/.zshrc
+
+HISTFILE=~/.zshist
+HISTSIZE=750
+SAVEHIST=1000
+
+# KEY BINDS #
+
+bindkey -e
+bindkey "\e[3~"		delete-char 
+bindkey  "^[[H"		beginning-of-line
+bindkey  "^[[F"		end-of-line
+
+#-----------#
+
+#export HISTORY_IGNORE="(ls|cd|pwd|exit|sudo reboot|history|cd -|cd ..)"
+
+autoload -U colors && colors
+#PS1="%B%{$fg[red]%} ZSH %~>%%%{$reset_color%} $b"
+PROMPT=' %(?.%B%F{green}ZSH.%F{red}ZSH)%f%b %B%F{red}%~>%f%b '
+
+# Aliases
+alias ls='ls --color=auto'
+alias l='ls -XF'
+alias ..='cd ../'
+alias x='exit'
+alias kittyrc='nano ~/.config/kitty/kitty.conf'
+alias zshrc='nano ~/.zshrc'
+alias vocal='espeak -k20 -p 0 -s150'
+alias ipv4address="ip -json route get 8.8.8.8 | jq -r '.[].prefsrc'"
+
+# Scripts
+alias saltvl="bash ~/.local/share/scripts/saltvl/saltvl.sh"
+alias db="cd ~/core/database/ ; python terminal.py"
+alias purge-orphans="sudo pacman -R $(pacman -Qtdq)"
+alias awesome-test="Xephyr :5 & sleep 1 ; DISPLAY=:5 awesome"
+alias xwm="Xephyr :5 -screen 1920x1080  & sleep 1 ; DISPLAY=:5"
