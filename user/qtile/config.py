@@ -16,7 +16,7 @@ gamer_class = ["hl2_linux"]
 group_font= 'agave'
 nerd_font= 'Hurmit NF'
 terminal = 'kitty'
-wpaper = '~/.config/qtile/wallpapers/decay_cat_ign_vaporWave.png'		# Must be DIR
+wpaper = '~/.config/qtile/wallpapers/decay_cat_ign_vaporWave.png'		
 wmname = "LG3D" 											# Set LG3D to fix broken java apps
 empty_group_str = '(^ᴗ^✿)'
 
