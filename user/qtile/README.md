@@ -5,5 +5,3 @@ Anyways, the dependencies are: `picom, Hurmit NF (as NerdFont), Agave Font`
   
 pic with garden wallpaper:
 ![screenshot](./screenshots/garden.png)
-pic with no compositor:
-![screenshot](./screenshots/nocompositor.png)
