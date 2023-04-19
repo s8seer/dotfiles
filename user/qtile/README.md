@@ -1,4 +1,4 @@
 
 
 
-![screenshot](./sailed.png)
+![screenshot](./screenshot.png)
