@@ -1,6 +1,9 @@
 # My early 2022 qtile config
 
 This has been discontinued for a long while, and possibly has been outdated.  
-Anyways, the dependencies are: `picom, Hurmit NF (as NerdFont), Agave Font`
-
-![screenshot](./wallpapers/garden.png)
+Anyways, the dependencies are: `picom, Hurmit NF (as NerdFont), Agave Font`  
+  
+pic with garden wallpaper:
+![screenshot](./screenshots/garden.png)
+pic with no compositor:
+![screenshot](./screenshots/nocompositor.png)
