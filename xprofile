@@ -1,8 +1,7 @@
 # X session autostart
 
 if [ "$DESKTOP_SESSION" = "awesome" ]; then
-    export QT_QPA_PLATFORMTHEME="qt5ct" # needed for the qt themes to work if using wm
-    xset s off -dpms #supposed fix for monitor energy saving
+    export QT_QPA_PLATFORMTHEME="qt5ct"		# needed for the qt themes to work when wm alone
+    xset s off -dpms						 # hacky fix for monitor energy savings
+    pkill kglobalaccel5						
 fi
-
-# kglobalaccel breaks stuff when no kde
