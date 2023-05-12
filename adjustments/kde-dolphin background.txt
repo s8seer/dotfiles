@@ -1,0 +1,4 @@
+# add this to your ~/.config/kdeglobals
+
+[Colors:View]
+BackgroundNormal=#222020
