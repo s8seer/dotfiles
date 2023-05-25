@@ -1,6 +1,6 @@
 
 this file is not code
-do it manually nitwit
+do it manually u nitwit
 
 set "Computer\HKEY_CURRENT_USER\Control Panel\Desktop\PaintDesktopVersion" to 1
 set "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\Manual" to 1
