@@ -1,6 +1,6 @@
 
-To install:
- git clone https://github.com/s8seer/dotfiles.git
+To install:  
+ ```git clone https://github.com/s8seer/dotfiles.git```
 
 ### Very Cool Screenshot of Awesomewm 'Buoyance' Theme!
 ![screenshot](./.config/awesome/themes/buoyance/screenshot.png "Woaa, Amazing!")
