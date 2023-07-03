@@ -2,7 +2,7 @@
 To install:  
  ```git clone https://github.com/s8seer/dotfiles.git```
 
-### Very Cool Screenshot of Awesomewm 'Buoyance' Theme!
+### Preferred Window Manager is 'Awesome'!
 ![screenshot](./.config/awesome/themes/buoyance/screenshot.png "Woaa, Amazing!")
  
 ### Screenshot From TTY2
