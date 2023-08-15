@@ -1,6 +1,6 @@
 # ~/.zshrc
 
-HISTFILE=~/.zshist
+HISTFILE=~/.config/.zshist
 HISTSIZE=750
 SAVEHIST=1000
 
