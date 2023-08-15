@@ -68,6 +68,5 @@ alias fbshot='sudo fbgrab sshot.png &>/dev/null'
 # Scripts
 alias saltvl="bash ~/.local/share/scripts/saltvl/saltvl.sh"
 alias db="cd ~/core/database/ ; python terminal.py"
-alias purge-orphans="sudo pacman -R $(echo $(pacman -Qtdq))"
 alias awesome-test="Xephyr :5 & sleep 1 ; DISPLAY=:5 awesome"
 alias xwm="Xephyr :5 -screen 1920x1080  & sleep 1 ; DISPLAY=:5"
