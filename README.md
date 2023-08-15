@@ -6,5 +6,5 @@ To install:
 ![screenshot](./.config/awesome/themes/buoyance/screenshot.png "Woaa, Amazing!")
  
 ### Screenshot From TTY2
-![screenshot](./repository_resources/screenshots/TTY2.png "Fanatical!!")
+![screenshot](./meta/screenshots/TTY2.png "Fanatical!!")
 Colors are made possible with '.zshrc'
