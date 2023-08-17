@@ -40,12 +40,6 @@ if [ "$TERM" = "linux" ]; then	# TTY Catpuccin mocha colors
 	clear #for background artifacting
 	neofetch --off
 	echo ""
-else
-	echo ""
-	echo ""
-	echo "Microsoft(R) Windows 95"
-	echo "   (C)Copyright Microsoft Corp 1981-1996."
-	echo ""
 fi
 
 # /usr/lib/kconf_update_bin/gtk_theme 
