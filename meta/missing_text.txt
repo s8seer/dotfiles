@@ -1,3 +1,0 @@
-Install noto-fonts-cjk 		for japanese and east asian fonts
-Install noto-fonts-emoji	for emojis
-*		ttf-joypixels		*	+This one is very cute
