@@ -313,4 +313,4 @@ tasklist_buttons = gears.table.join(
                             if c == client.focus then c.minimized = true
                             else c:emit_signal( "request::activate", "tasklist",
                         {raise = true}) end end),
-                        awful.button({ }, 2, function (c) c:kill() end))
+                     awful.button({ }, 2, function (c) c:kill() end))
