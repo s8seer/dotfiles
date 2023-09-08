@@ -19,3 +19,4 @@ lxappearance
 qt5ct
 lxrandr-gtk3
 lxsession
+chafa
