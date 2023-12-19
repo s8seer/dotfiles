@@ -1,0 +1,55 @@
+# excess personal info display
+||aolweb.meb.gov.tr/ResimGoster.aspx$image
+aolweb.meb.gov.tr###PageHeader1_imgOgrenci
+aolweb.meb.gov.tr##.kullanici_adi
+aolweb.meb.gov.tr###PageHeader1_lblOgrenciAdi
+aolweb.meb.gov.tr###PageHeader1_lblOgrenciNumarasi
+aolweb.meb.gov.tr###lblIdTcNo
+# invasive payment panel that shows buncha private stuff
+aolweb.meb.gov.tr##:matches-path(/^\/AOL01022/)#pnlDonem
+# personal info that's very sensitive
+aolweb.meb.gov.tr###lblOgrenciNo
+aolweb.meb.gov.tr###pnlKimlikBilgi
+aolweb.meb.gov.tr###lblAdi
+aolweb.meb.gov.tr###lblSoyadi
+aolweb.meb.gov.tr###lblTelefon
+aolweb.meb.gov.tr###lblGSM
+aolweb.meb.gov.tr###lblSinavBolge
+aolweb.meb.gov.tr###lblAdres
+aolweb.meb.gov.tr###lblIl
+aolweb.meb.gov.tr###lblIlce
+aolweb.meb.gov.tr###lblUlke
+aolweb.meb.gov.tr###dropYeniUlke
+aolweb.meb.gov.tr###dropYeniIl
+aolweb.meb.gov.tr###dropYeniIlce
+aolweb.meb.gov.tr###txtYeniTel
+aolweb.meb.gov.tr###txtYeniAdres
+aolweb.meb.gov.tr###txtYeniGSM
+aolweb.meb.gov.tr###dropYeniSinavBolge
+aolweb.meb.gov.tr###dropYeniCalismaDurumu
+
+# cookie and login alerts
+www.howtogeek.com##.user-content.w-login-banner
+superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+steamid.uk##.en.simple.dark.cc_dialog.cc_css_reboot
+www.newjeans.kr##.wrap-2.wrap
+123guestbook.com##.cc_container--open.cc_container.cc_banner
+
+# annoying stuff
+fandom.com##.wikia-bar-anon.wikia-bar
+fandom.com##.global-navigation
+fandom.com##.is-visible.fandom-sticky-header
+fandom.com##.render-wiki-recommendations-right-rail
+fandom.com##.premium-recirculation-rail.popular-pages
+fandom.com##.global-registration-buttons
+fandom.com##.wds-button-group.wiki-tools
+fandom.com##.page-counter
+fandom.com##.mcf-wrapper
+fandom.com##.global-footer
+
+# Ads inside video player
+vidplay.online##.delv
+vidplay.online##.xibw
+
