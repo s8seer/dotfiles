@@ -33,9 +33,12 @@ www.howtogeek.com##.user-content.w-login-banner
 superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+stackoverflow.com##.show-votes
+stackoverflow.com##.ps-relative.js-freemium-cta
 steamid.uk##.en.simple.dark.cc_dialog.cc_css_reboot
 www.newjeans.kr##.wrap-2.wrap
 123guestbook.com##.cc_container--open.cc_container.cc_banner
+thewebdev.info##.ez-twentytwentytwo.ez-main-cmp-wrapper.ez_banner
 
 # annoying stuff
 fandom.com##.wikia-bar-anon.wikia-bar
@@ -48,8 +51,8 @@ fandom.com##.wds-button-group.wiki-tools
 fandom.com##.page-counter
 fandom.com##.mcf-wrapper
 fandom.com##.global-footer
+||sourcepoint.theguardian.com/index.html?message_id=882219&consentUUID=e9a0283a-ae5a-4c2a-afb8-2de1bbddca26
 
 # Ads inside video player
 vidplay.online##.delv
 vidplay.online##.xibw
-
