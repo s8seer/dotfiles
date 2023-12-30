@@ -1,6 +1,8 @@
 
 To install:  
- ```git clone https://github.com/s8seer/dotfiles.git```
+ ```
+git clone https://github.com/s8seer/dotfiles.git
+ ```
 
 #### Prerequisites:
 -Windows11 icon theme:  
