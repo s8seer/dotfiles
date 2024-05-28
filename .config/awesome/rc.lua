@@ -7,6 +7,7 @@ local awful = require("awful")
 local wibox = require("wibox") 
 local naughty = require("naughty")
 local xresources = require("beautiful.xresources")
+local hotkeys_popup = require("awful.hotkeys_popup")
 local dpi = xresources.apply_dpi
 -- rofi -modi drun -show drun -show-icons -width 22 -no-click-to-exit`
 
