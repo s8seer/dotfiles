@@ -16,8 +16,7 @@ bindkey  "^[[F"		end-of-line
 export HISTORY_IGNORE="(ls|cd|pwd|exit|sudo reboot|history|cd -|cd ..)"
 
 autoload -U colors && colors
-#PS1="%B%{$fg[red]%} ZSH %~>%%%{$reset_color%} $b"
-PROMPT=' %(?.%B%F{green}ZSH.%F{red}ZSH)%f%b %B%F{red}%~>%f%b '
+PS1=' %(?.%B%F{green}%n@Arch.%F{yellow}%n@Arch)%f%b %1~:'
 
 
 if [ "$TERM" = "linux" ]; then	# TTY Catpuccin mocha colors
