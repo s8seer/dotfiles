@@ -12,5 +12,3 @@ https://addons.mozilla.org/en-US/firefox/addon/nighttime-stars-animated-theme/
 
 #### Made with Awesome Window Manager!
 ![screenshot](./.config/awesome/themes/buoyance/screenshot.png)
- 
-Colors are made possible with '.zshrc'
