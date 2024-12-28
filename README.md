@@ -10,9 +10,7 @@ https://www.pling.com/p/1977340
 -Firefox theme:  
 https://addons.mozilla.org/en-US/firefox/addon/nighttime-stars-animated-theme/
 
-#### Preferred Window Manager is 'Awesome'!
-![screenshot](./.config/awesome/themes/buoyance/screenshot.png "Woaa, Amazing!")
+#### Made with Awesome Window Manager!
+![screenshot](./.config/awesome/themes/buoyance/screenshot.png)
  
-#### Screenshot From TTY2
-![screenshot](./meta/screenshots/TTY2.png "Fanatical!!")
 Colors are made possible with '.zshrc'
